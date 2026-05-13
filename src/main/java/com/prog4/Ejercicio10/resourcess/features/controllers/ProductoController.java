@@ -1,6 +1,5 @@
 package com.prog4.Ejercicio10.resourcess.features.controllers;
 
-import java.util.List;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
